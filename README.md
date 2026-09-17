@@ -13,3 +13,6 @@ In the future, special dedicated servo drivers and professionally printed PCBs c
 
 <img width="300" height="533" alt="image" src="https://github.com/user-attachments/assets/34052431-b61a-45cc-9f30-293a1cfe8205" />
 <img width="400" height="533" alt="image" src="https://github.com/user-attachments/assets/a581bdff-40d0-4c27-96ae-2a41408f218f" />
+
+
+https://github.com/user-attachments/assets/6cab5b38-83d2-46cc-9544-a6fa6e9eb11e
